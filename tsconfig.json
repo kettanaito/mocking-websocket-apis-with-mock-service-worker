@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "exclude": ["node_modules"],
+  "references": [
+    {
+      "path": "./exercises/01.mocking-websocket-apis/01.problem.setup-msw"
+    }
+  ]
+}

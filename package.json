@@ -1,0 +1,45 @@
+{
+  "name": "mocking-websockets-with-msw",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "type": "module",
+  "epicshop": {
+    "title": "Mocking WebSocket APIs with Mock Service Worker",
+    "subtitle": "Develop and test a WebSocket application mock-first.",
+    "epicWorkshopSlug": "mocking-websockets-with-msw",
+    "githubRoot": "https://github.com/kettanaito/mocking-websockets-with-msw",
+    "instructor": {
+      "name": "Artem Zakharchenko",
+      "avatar": "/images/instructor.png",
+      "xHandle": "kettanaito"
+    }
+  },
+  "scripts": {
+    "dev": "epicshop start",
+    "start": "epicshop start",
+    "build": "npm run build --if-present --workspaces",
+    "setup": "node ./setup.js"
+  },
+  "workspaces": [
+    "exercises/**"
+  ],
+  "engines": {
+    "node": ">=20.11.0",
+    "npm": ">=8.16.0",
+    "git": ">=2.18.0"
+  },
+  "keywords": [],
+  "author": "Artem Zakharchenko <me@kettanaito.com> (https://kettanaito.com)",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@types/node": "^20.14.15",
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@epic-web/workshop-app": "^4.13.3",
+    "@epic-web/workshop-utils": "^4.13.3"
+  }
+}
