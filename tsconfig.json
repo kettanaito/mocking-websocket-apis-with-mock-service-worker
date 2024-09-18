@@ -9,6 +9,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/01.solution.browser-setup"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/02.problem.intercept-ws"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/02.solution.intercept-ws"
     }
   ]
 }
