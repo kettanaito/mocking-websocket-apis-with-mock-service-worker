@@ -1,5 +1,5 @@
 {
-  "name": "exercises__sep__01.mocking-websocket-apis__sep__01.problem.setup-msw",
+  "name": "exercises__sep__01.mocking-websocket-apis__sep__01.problem.browser-setup",
   "type": "module",
   "engines": {
     "node": ">=20.0.0"
