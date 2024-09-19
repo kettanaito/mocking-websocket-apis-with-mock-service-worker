@@ -1,5 +1,5 @@
 {
-  "name": "exercises__sep__01.mocking-websocket-apis__sep__01.problem.browser-setup",
+  "name": "exercises__sep__01.mocking-websocket-apis__sep__04.problem.broadcasting-data",
   "type": "module",
   "engines": {
     "node": ">=20.0.0"
@@ -51,5 +51,10 @@
     "typescript": "^5.1.6",
     "vite": "^5.4.6",
     "vite-tsconfig-paths": "^5.0.1"
+  },
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
   }
 }

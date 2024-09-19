@@ -21,6 +21,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/03.solution.intercept-client-events"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/04.problem.broadcasting-data"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/04.solution.broadcasting-data"
     }
   ]
 }
