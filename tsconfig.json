@@ -27,6 +27,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/04.solution.broadcasting-data"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/05.problem.modify-outgoing-events"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/05.solution.modify-outgoing-events"
     }
   ]
 }
