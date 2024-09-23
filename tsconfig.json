@@ -33,6 +33,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/05.solution.modify-outgoing-events"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/06.replay.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/06.replay.solution"
     }
   ]
 }
