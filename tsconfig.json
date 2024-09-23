@@ -45,6 +45,18 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/07.type-safe.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/08.close-client.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/08.close-client.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/09.custom-close-code.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/09.custom-close-code.solution"
     }
   ]
 }
