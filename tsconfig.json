@@ -39,6 +39,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/06.replay.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/07.type-safe.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/07.type-safe.solution"
     }
   ]
 }
