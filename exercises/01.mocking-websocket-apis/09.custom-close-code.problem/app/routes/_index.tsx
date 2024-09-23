@@ -68,6 +68,7 @@ export default function Homepage() {
         if (event.code === 1000) {
           return toast('Disconnected', {
             description: 'Client disconnected.',
+            duration: Infinity,
           })
         }
 

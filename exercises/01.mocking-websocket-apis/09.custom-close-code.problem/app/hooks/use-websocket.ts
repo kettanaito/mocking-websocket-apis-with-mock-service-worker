@@ -10,7 +10,8 @@ export function useWebSocket(
     onClose?: (event: CloseEvent) => void
   },
 ) {
-  const [isConnectionOpen, setIsConnectionOpen] = React.useState(false)
+  const [isConnectionOpen, setIsConnectionOpen] =
+    React.useState(false)
   const webSocketRef = React.useRef<WebSocket>()
 
   useEffectOnce(() => {
@@ -33,6 +34,7 @@ export function useWebSocket(
     ws.addEventListener(
       'close',
       () => {
+        abortConrtoller.abort()
         setIsConnectionOpen(false)
       },
       { signal: abortConrtoller.signal },
