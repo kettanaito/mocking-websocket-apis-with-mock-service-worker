@@ -63,6 +63,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/10.close-multiple-clients.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/11.server-connect.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/11.server-connect.solution"
     }
   ]
 }
