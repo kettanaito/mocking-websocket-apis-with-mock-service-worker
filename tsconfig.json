@@ -69,6 +69,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/11.server-connect.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/12.server-events.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/12.server-events.solution"
     }
   ]
 }
