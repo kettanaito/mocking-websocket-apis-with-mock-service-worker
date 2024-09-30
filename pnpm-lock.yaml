@@ -125,8 +125,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -240,8 +240,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -355,8 +355,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -470,8 +470,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -585,8 +585,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -700,8 +700,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -815,8 +815,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -930,8 +930,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1045,8 +1045,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1160,8 +1160,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1275,8 +1275,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1390,8 +1390,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1505,8 +1505,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1623,8 +1623,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1741,8 +1741,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1859,8 +1859,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1977,8 +1977,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2095,8 +2095,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2213,8 +2213,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2331,8 +2331,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2449,8 +2449,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2573,8 +2573,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2697,8 +2697,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2821,8 +2821,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2945,8 +2945,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3069,8 +3069,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3193,8 +3193,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3317,8 +3317,256 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-9
-        version: 2.3.0-ws.rc-9(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+      postcss:
+        specifier: ^8.4.38
+        version: 8.4.47
+      tailwindcss:
+        specifier: ^3.4.4
+        version: 3.4.11
+      typescript:
+        specifier: ^5.1.6
+        version: 5.6.2
+      vite:
+        specifier: ^5.4.7
+        version: 5.4.7(@types/node@20.16.5)
+      vite-tsconfig-paths:
+        specifier: ^5.0.1
+        version: 5.0.1(typescript@5.6.2)(vite@5.4.7)
+
+  exercises/01.mocking-websocket-apis/15.preventing-server-closure.problem:
+    dependencies:
+      '@faker-js/faker':
+        specifier: ^8.4.1
+        version: 8.4.1
+      '@heroicons/react':
+        specifier: ^2.1.5
+        version: 2.1.5(react@18.3.1)
+      '@radix-ui/react-alert-dialog':
+        specifier: ^1.1.1
+        version: 1.1.1(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-avatar':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-scroll-area':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-slot':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react@18.3.7)(react@18.3.1)
+      '@remix-run/node':
+        specifier: ^2.12.0
+        version: 2.12.0(typescript@5.6.2)
+      '@remix-run/react':
+        specifier: ^2.12.0
+        version: 2.12.0(react-dom@18.3.1)(react@18.3.1)(typescript@5.6.2)
+      '@remix-run/serve':
+        specifier: ^2.12.0
+        version: 2.12.0(typescript@5.6.2)
+      '@types/ws':
+        specifier: ^8.5.12
+        version: 8.5.12
+      class-variance-authority:
+        specifier: ^0.7.0
+        version: 0.7.0
+      clsx:
+        specifier: ^2.1.1
+        version: 2.1.1
+      isbot:
+        specifier: ^5.1.17
+        version: 5.1.17
+      lucide-react:
+        specifier: ^0.441.0
+        version: 0.441.0(react@18.3.1)
+      next-themes:
+        specifier: ^0.3.0
+        version: 0.3.0(react-dom@18.3.1)(react@18.3.1)
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+      sonner:
+        specifier: ^1.5.0
+        version: 1.5.0(react-dom@18.3.1)(react@18.3.1)
+      tailwind-merge:
+        specifier: ^2.5.2
+        version: 2.5.2
+      tailwindcss-animate:
+        specifier: ^1.0.7
+        version: 1.0.7(tailwindcss@3.4.11)
+      ws:
+        specifier: ^8.18.0
+        version: 8.18.0
+      zod:
+        specifier: ^3.23.8
+        version: 3.23.8
+    devDependencies:
+      '@remix-run/dev':
+        specifier: ^2.12.0
+        version: 2.12.0(@remix-run/react@2.12.0)(@remix-run/serve@2.12.0)(@types/node@20.16.5)(typescript@5.6.2)(vite@5.4.7)
+      '@types/react':
+        specifier: ^18.2.20
+        version: 18.3.7
+      '@types/react-dom':
+        specifier: ^18.2.7
+        version: 18.3.0
+      '@typescript-eslint/eslint-plugin':
+        specifier: ^8.6.0
+        version: 8.6.0(@typescript-eslint/parser@6.21.0)(eslint@8.57.1)(typescript@5.6.2)
+      '@typescript-eslint/parser':
+        specifier: ^6.7.4
+        version: 6.21.0(eslint@8.57.1)(typescript@5.6.2)
+      autoprefixer:
+        specifier: ^10.4.19
+        version: 10.4.20(postcss@8.4.47)
+      eslint:
+        specifier: ^8.38.0
+        version: 8.57.1
+      eslint-import-resolver-typescript:
+        specifier: ^3.6.1
+        version: 3.6.3(@typescript-eslint/parser@6.21.0)(eslint-plugin-import@2.30.0)(eslint@8.57.1)
+      eslint-plugin-import:
+        specifier: ^2.28.1
+        version: 2.30.0(@typescript-eslint/parser@6.21.0)(eslint-import-resolver-typescript@3.6.3)(eslint@8.57.1)
+      eslint-plugin-jsx-a11y:
+        specifier: ^6.7.1
+        version: 6.10.0(eslint@8.57.1)
+      eslint-plugin-react:
+        specifier: ^7.33.2
+        version: 7.36.1(eslint@8.57.1)
+      eslint-plugin-react-hooks:
+        specifier: ^4.6.0
+        version: 4.6.2(eslint@8.57.1)
+      msw:
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+      postcss:
+        specifier: ^8.4.38
+        version: 8.4.47
+      tailwindcss:
+        specifier: ^3.4.4
+        version: 3.4.11
+      typescript:
+        specifier: ^5.1.6
+        version: 5.6.2
+      vite:
+        specifier: ^5.4.7
+        version: 5.4.7(@types/node@20.16.5)
+      vite-tsconfig-paths:
+        specifier: ^5.0.1
+        version: 5.0.1(typescript@5.6.2)(vite@5.4.7)
+
+  exercises/01.mocking-websocket-apis/15.preventing-server-closure.solution:
+    dependencies:
+      '@faker-js/faker':
+        specifier: ^8.4.1
+        version: 8.4.1
+      '@heroicons/react':
+        specifier: ^2.1.5
+        version: 2.1.5(react@18.3.1)
+      '@radix-ui/react-alert-dialog':
+        specifier: ^1.1.1
+        version: 1.1.1(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-avatar':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-scroll-area':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react-dom@18.3.0)(@types/react@18.3.7)(react-dom@18.3.1)(react@18.3.1)
+      '@radix-ui/react-slot':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react@18.3.7)(react@18.3.1)
+      '@remix-run/node':
+        specifier: ^2.12.0
+        version: 2.12.0(typescript@5.6.2)
+      '@remix-run/react':
+        specifier: ^2.12.0
+        version: 2.12.0(react-dom@18.3.1)(react@18.3.1)(typescript@5.6.2)
+      '@remix-run/serve':
+        specifier: ^2.12.0
+        version: 2.12.0(typescript@5.6.2)
+      '@types/ws':
+        specifier: ^8.5.12
+        version: 8.5.12
+      class-variance-authority:
+        specifier: ^0.7.0
+        version: 0.7.0
+      clsx:
+        specifier: ^2.1.1
+        version: 2.1.1
+      isbot:
+        specifier: ^5.1.17
+        version: 5.1.17
+      lucide-react:
+        specifier: ^0.441.0
+        version: 0.441.0(react@18.3.1)
+      next-themes:
+        specifier: ^0.3.0
+        version: 0.3.0(react-dom@18.3.1)(react@18.3.1)
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+      sonner:
+        specifier: ^1.5.0
+        version: 1.5.0(react-dom@18.3.1)(react@18.3.1)
+      tailwind-merge:
+        specifier: ^2.5.2
+        version: 2.5.2
+      tailwindcss-animate:
+        specifier: ^1.0.7
+        version: 1.0.7(tailwindcss@3.4.11)
+      ws:
+        specifier: ^8.18.0
+        version: 8.18.0
+      zod:
+        specifier: ^3.23.8
+        version: 3.23.8
+    devDependencies:
+      '@remix-run/dev':
+        specifier: ^2.12.0
+        version: 2.12.0(@remix-run/react@2.12.0)(@remix-run/serve@2.12.0)(@types/node@20.16.5)(typescript@5.6.2)(vite@5.4.7)
+      '@types/react':
+        specifier: ^18.2.20
+        version: 18.3.7
+      '@types/react-dom':
+        specifier: ^18.2.7
+        version: 18.3.0
+      '@typescript-eslint/eslint-plugin':
+        specifier: ^8.6.0
+        version: 8.6.0(@typescript-eslint/parser@6.21.0)(eslint@8.57.1)(typescript@5.6.2)
+      '@typescript-eslint/parser':
+        specifier: ^6.7.4
+        version: 6.21.0(eslint@8.57.1)(typescript@5.6.2)
+      autoprefixer:
+        specifier: ^10.4.19
+        version: 10.4.20(postcss@8.4.47)
+      eslint:
+        specifier: ^8.38.0
+        version: 8.57.1
+      eslint-import-resolver-typescript:
+        specifier: ^3.6.1
+        version: 3.6.3(@typescript-eslint/parser@6.21.0)(eslint-plugin-import@2.30.0)(eslint@8.57.1)
+      eslint-plugin-import:
+        specifier: ^2.28.1
+        version: 2.30.0(@typescript-eslint/parser@6.21.0)(eslint-import-resolver-typescript@3.6.3)(eslint@8.57.1)
+      eslint-plugin-jsx-a11y:
+        specifier: ^6.7.1
+        version: 6.10.0(eslint@8.57.1)
+      eslint-plugin-react:
+        specifier: ^7.33.2
+        version: 7.36.1(eslint@8.57.1)
+      eslint-plugin-react-hooks:
+        specifier: ^4.6.0
+        version: 4.6.2(eslint@8.57.1)
+      msw:
+        specifier: 2.3.0-ws.rc-10
+        version: 2.3.0-ws.rc-10(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3723,7 +3971,7 @@ packages:
       mdx-bundler: 10.0.3(esbuild@0.17.6)
       mime-types: 2.1.35
       morgan: 1.10.0
-      msw: 2.4.8(typescript@5.6.2)
+      msw: 2.4.9(typescript@5.6.2)
       openid-client: 5.7.0
       p-queue: 8.0.1
       parse-git-diff: 0.0.15
@@ -4763,8 +5011,8 @@ packages:
       - supports-color
     dev: false
 
-  /@mswjs/interceptors@0.35.6:
-    resolution: {integrity: sha512-PpD687w7qLxVMK176bpQjbzU9O0VC75QnBK5U1lKd29s4hIuxfTItUD6raNKyQ6BN8b64/8HE34RuYTkwH9uPQ==}
+  /@mswjs/interceptors@0.35.9:
+    resolution: {integrity: sha512-SSnyl/4ni/2ViHKkiZb8eajA/eN1DNFaHjhGiLUdZvDz6PKF4COSf/17xqSz64nOo2Ia29SA6B2KNCsyCbVmaQ==}
     engines: {node: '>=18'}
     dependencies:
       '@open-draft/deferred-promise': 2.2.0
@@ -4773,6 +5021,19 @@ packages:
       is-node-process: 1.2.0
       outvariant: 1.4.3
       strict-event-emitter: 0.5.1
+    dev: false
+
+  /@mswjs/interceptors@0.36.0:
+    resolution: {integrity: sha512-PxeMuXKYG897a8zX/V0ZqHZv925QBhwPapH7g2y4LFnqAckHsy58N4T2SxiebUMsd7uN3Axu1ERPrs080dbjZQ==}
+    engines: {node: '>=18'}
+    dependencies:
+      '@open-draft/deferred-promise': 2.2.0
+      '@open-draft/logger': 0.3.0
+      '@open-draft/until': 2.1.0
+      is-node-process: 1.2.0
+      outvariant: 1.4.3
+      strict-event-emitter: 0.5.1
+    dev: true
 
   /@mux/mux-player-react@2.9.1(react-dom@19.0.0-rc-f994737d14-20240522)(react@19.0.0-rc-f994737d14-20240522):
     resolution: {integrity: sha512-1BpMs1J7P+d+/QCf9/mkTk/NPYR6sOskR4Ih0uFZjDAqNUN7/C9Q0FEJ6hF3sFXwAXo50RhnfCzsC5uYx3QHbA==}
@@ -10970,8 +11231,8 @@ packages:
   /ms@2.1.3:
     resolution: {integrity: sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==}
 
-  /msw@2.3.0-ws.rc-9(typescript@5.6.2):
-    resolution: {integrity: sha512-Op3vUmdBClEXm3t30JAnVBL/YRkapV+QU5jhULkw+h79AT8wWXKr7OIej7+tuWKa4Arcbcf3peH6t9tqN0sTew==}
+  /msw@2.3.0-ws.rc-10(typescript@5.6.2):
+    resolution: {integrity: sha512-L+2koaukv1VUZ6PGMxt4fbxejgcnyY5b19uwEgskAhpueW6OqfDDatiALuyg//KJZiNLebsFRo2+zJlnI0Jr9A==}
     engines: {node: '>=18'}
     hasBin: true
     requiresBuild: true
@@ -10985,7 +11246,7 @@ packages:
       '@bundled-es-modules/statuses': 1.0.1
       '@bundled-es-modules/tough-cookie': 0.1.6
       '@inquirer/confirm': 3.2.0
-      '@mswjs/interceptors': 0.35.6
+      '@mswjs/interceptors': 0.36.0
       '@open-draft/deferred-promise': 2.2.0
       '@open-draft/until': 2.1.0
       '@types/cookie': 0.6.0
@@ -11002,8 +11263,8 @@ packages:
       yargs: 17.7.2
     dev: true
 
-  /msw@2.4.8(typescript@5.6.2):
-    resolution: {integrity: sha512-a+FUW1m5yT8cV9GBy0L/cbNg0EA4//SKEzgu3qFrpITrWYeZmqfo7dqtM74T2lAl69jjUjjCaEhZKaxG2Ns8DA==}
+  /msw@2.4.9(typescript@5.6.2):
+    resolution: {integrity: sha512-1m8xccT6ipN4PTqLinPwmzhxQREuxaEJYdx4nIbggxP8aM7r1e71vE7RtOUSQoAm1LydjGfZKy7370XD/tsuYg==}
     engines: {node: '>=18'}
     hasBin: true
     requiresBuild: true
@@ -11017,7 +11278,7 @@ packages:
       '@bundled-es-modules/statuses': 1.0.1
       '@bundled-es-modules/tough-cookie': 0.1.6
       '@inquirer/confirm': 3.2.0
-      '@mswjs/interceptors': 0.35.6
+      '@mswjs/interceptors': 0.35.9
       '@open-draft/until': 2.1.0
       '@types/cookie': 0.6.0
       '@types/statuses': 2.0.5

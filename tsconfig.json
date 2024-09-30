@@ -87,6 +87,12 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/14.modify-client-events.solution "
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/15.preventing-server-closure.problem"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/15.preventing-server-closure.solution"
     }
   ]
 }
