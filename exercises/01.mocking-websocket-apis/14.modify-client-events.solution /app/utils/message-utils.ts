@@ -16,13 +16,16 @@ const chatMessageSchema = z.object({
   }),
 })
 
-export function parseChatMessage(data: WebSocketData) {
+export function parseChatMessage(
+  data: WebSocketData,
+) {
   if (typeof data !== 'string') {
     return
   }
 
   const message = JSON.parse(data)
-  const result = chatMessageSchema.safeParse(message)
+  const result =
+    chatMessageSchema.safeParse(message)
 
   if (result.error) {
     return
@@ -32,7 +35,9 @@ export function parseChatMessage(data: WebSocketData) {
 }
 
 export function createChatMessage(
-  input: Partial<z.infer<typeof chatMessageSchema>>,
+  input: Partial<
+    z.infer<typeof chatMessageSchema>
+  >,
 ) {
   chatMessageSchema.parse(input)
   return JSON.stringify(input)

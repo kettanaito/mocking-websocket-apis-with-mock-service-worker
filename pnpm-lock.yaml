@@ -125,8 +125,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -240,8 +240,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -355,8 +355,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -470,8 +470,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -585,8 +585,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -700,8 +700,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -815,8 +815,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -930,8 +930,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1045,8 +1045,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1160,8 +1160,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1275,8 +1275,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1390,8 +1390,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1505,8 +1505,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1623,8 +1623,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1741,8 +1741,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1859,8 +1859,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -1977,8 +1977,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2095,8 +2095,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2213,8 +2213,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2331,8 +2331,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2449,8 +2449,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2573,8 +2573,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2697,8 +2697,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2821,8 +2821,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -2945,8 +2945,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3069,8 +3069,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3193,8 +3193,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3317,8 +3317,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3441,8 +3441,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -3565,8 +3565,8 @@ importers:
         specifier: ^4.6.0
         version: 4.6.2(eslint@8.57.1)
       msw:
-        specifier: 2.3.0-ws.rc-10
-        version: 2.3.0-ws.rc-10(typescript@5.6.2)
+        specifier: 2.3.0-ws.rc-11
+        version: 2.3.0-ws.rc-11(typescript@5.6.2)
       postcss:
         specifier: ^8.4.38
         version: 8.4.47
@@ -5023,8 +5023,8 @@ packages:
       strict-event-emitter: 0.5.1
     dev: false
 
-  /@mswjs/interceptors@0.36.0:
-    resolution: {integrity: sha512-PxeMuXKYG897a8zX/V0ZqHZv925QBhwPapH7g2y4LFnqAckHsy58N4T2SxiebUMsd7uN3Axu1ERPrs080dbjZQ==}
+  /@mswjs/interceptors@0.36.1:
+    resolution: {integrity: sha512-wjKbjecynhZIqtvTuq61Q1JOzC1obSlrn1U6/f9JvwIw0zFX7+CZD3C/ncdUPbxpmfgq4GoyY2mFU+JobK+1SQ==}
     engines: {node: '>=18'}
     dependencies:
       '@open-draft/deferred-promise': 2.2.0
@@ -11231,8 +11231,8 @@ packages:
   /ms@2.1.3:
     resolution: {integrity: sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==}
 
-  /msw@2.3.0-ws.rc-10(typescript@5.6.2):
-    resolution: {integrity: sha512-L+2koaukv1VUZ6PGMxt4fbxejgcnyY5b19uwEgskAhpueW6OqfDDatiALuyg//KJZiNLebsFRo2+zJlnI0Jr9A==}
+  /msw@2.3.0-ws.rc-11(typescript@5.6.2):
+    resolution: {integrity: sha512-yeXAl8G1cllcaNKbztEfz7Vy7HM0vzmmGGYNR4V7qwhXf8Yr2hMOWI9wTfOdHDGazUH36+SyCiU7WQRYcuDzvQ==}
     engines: {node: '>=18'}
     hasBin: true
     requiresBuild: true
@@ -11246,7 +11246,7 @@ packages:
       '@bundled-es-modules/statuses': 1.0.1
       '@bundled-es-modules/tough-cookie': 0.1.6
       '@inquirer/confirm': 3.2.0
-      '@mswjs/interceptors': 0.36.0
+      '@mswjs/interceptors': 0.36.1
       '@open-draft/deferred-promise': 2.2.0
       '@open-draft/until': 2.1.0
       '@types/cookie': 0.6.0
