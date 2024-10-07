@@ -93,6 +93,9 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/15.preventing-server-closure.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/16.testing-with-vitest.solution"
     }
   ]
 }
