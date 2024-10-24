@@ -96,6 +96,9 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/16.testing-with-vitest.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/17.testing-in-playwright.solution"
     }
   ]
 }
