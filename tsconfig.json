@@ -99,6 +99,9 @@
     },
     {
       "path": "exercises/01.mocking-websocket-apis/17.testing-in-playwright.solution"
+    },
+    {
+      "path": "exercises/01.mocking-websocket-apis/18.overriding-handler-behavior.solution"
     }
   ]
 }
